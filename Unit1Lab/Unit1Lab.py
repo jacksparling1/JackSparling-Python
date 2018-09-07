@@ -1,0 +1,13 @@
+print ("I love Python")
+print ("What's your name?")
+myName= input()
+print (myName)
+print ("My name is " + myName)
+
+print ("Enter your first number")
+num1= input()
+print (num1)
+print ("Ente your second number")
+num2= input()
+print (num2)
+print (int(num1) + int(num2))
